@@ -1,0 +1,10 @@
+.is-grid-view prm-gallery-item-after {
+    position: relative;
+    top: -3em;
+    left: 0.5em;
+    font-size: 0.9em;
+}
+
+.is-gallery-view prm-gallery-item-after {
+    display: none;
+}

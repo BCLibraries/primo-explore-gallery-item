@@ -1,0 +1,8 @@
+{
+  "name": "primo-explore-gallery-item",
+  "version": "0.0.1",
+  "description": "Add details to gallery item display",
+  "main": "index.js",
+  "author": "Luke Gaudreau",
+  "license": "MIT"
+}
