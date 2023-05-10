@@ -3,7 +3,7 @@ angular
     .controller('prmGalleryItemAfterController',  [function () {
 		this.$onInit = function () {
 			var vm=this;
-			vm.itemCount = vm.parentCtrl.item.pnx.display.lds36;
+			vm.itemCount = vm.parentCtrl.item.pnx.display.lds37;
 		};
     }])
     .component('prmGalleryItemAfter',{
